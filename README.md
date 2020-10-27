@@ -1,0 +1,1 @@
+# Kafka-Log-Aggregation-Sample
